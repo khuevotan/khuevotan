@@ -3,14 +3,13 @@
 I am Fullstack Developer student<br/>
 I am interested in learning Programing Language, Web Framework and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://cf.shopee.vn/file/c050d3b32d7e22296c4dca8ce6913a54" width="400" height="250" />
+<img align="right" alt="GIF" src="https://cf.shopee.vn/file/c050d3b32d7e22296c4dca8ce6913a54" width="300" height="300" />
 
 - 🌱 I’m currently learning Fullstack Development.
-- 👯 I’m looking to collaborate with Fullstack Webs.
-- 🤔 I’m looking for help with Open source Contribution.
+- ✍️ Apart from technical interests, I like watching movies, reading books.
 - 💬 Ask me about Frontend and JavaScript.
-- 😄 Pronouns: Khue
-- ⚡ Fun fact: 
+- ✉️ You can email me at khuevotan@gmail.com. I'll try to respond as soon as possible!
+- 📄 You can check my Resume for more details about my work experience.
 
 <br/>
 
