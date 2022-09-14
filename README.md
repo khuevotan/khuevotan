@@ -3,12 +3,12 @@
 I am Fullstack Developer student<br/>
 I am interested in learning Programing Language, Web Framework and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://cf.shopee.vn/file/c050d3b32d7e22296c4dca8ce6913a54" width="300" height="300" />
+<img align="right" alt="GIF" src="https://cf.shopee.vn/file/c050d3b32d7e22296c4dca8ce6913a54" width="250" height="250" />
 
 - 🌱 I’m currently learning Fullstack Development.
 - ✍️ Apart from technical interests, I like watching movies, reading books.
-- 💬 Ask me about Frontend and JavaScript.
-- ✉️ You can email me at khuevotan@gmail.com. I'll try to respond as soon as possible!
+- 💬 Feel free to reach out to me for general consulting, or discussions.
+- ✉️ You can email me at khuevotan@gmail.com.
 - 📄 You can check my Resume for more details about my work experience.
 
 <br/>
@@ -30,21 +30,11 @@ Languages and Tools🛠:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
+
 </details>
 
 ---
@@ -69,18 +59,4 @@ Languages and Tools🛠:
 <a href="https://www.linkedin.com/in/tankhuevo/">
   <img align="left" alt="Ren's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
-
-<br/>
-
 </details>
-
----
-
-<div align="center">
-  
-
-### Show ❤️ by 🌟 my [repositories](https://github.com/khuevotan?tab=repositories)!
-
-</div>
------
-Last Edited on: 14/09/2022
