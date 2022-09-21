@@ -1,6 +1,6 @@
 
 ### About me🧑:
-Xin chào!<br/>
+Hello!<br/>
 
 <img align="right" alt="GIF" src="https://cf.shopee.vn/file/c050d3b32d7e22296c4dca8ce6913a54" width="230" height="230" />
 
